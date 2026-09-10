@@ -77,10 +77,11 @@ I have hands-on experience with Java backend development, functional testing, re
 
 ## 📜 Certifications
 
-- AWS Academy – Cloud Foundations
 - Infosys – Introduction to Artificial Intelligence
 - HackerRank – Java
 - Java Full Stack Development Certificate
+- Global Quest Technologies – Java Developer Certificate
+- Global Quest Technologies – Manual Tester Certificate
 
 ---
 
@@ -102,6 +103,14 @@ Vaagdegi College of Engineering, Warangal
 - Performed functional and regression testing.
 - Worked with SDLC and STLC processes.
 - Practiced defect identification, reporting, and tracking.
+
+---
+
+## 💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/h8QqfsLm33/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ananyajinukala1)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ananyaa_08)
 
 ---
 
